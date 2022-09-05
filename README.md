@@ -1,1 +1,2 @@
-# sturdy-octo-waddle
+# 这是一个Java示例程序。
+# 用于演示一些基本功能
